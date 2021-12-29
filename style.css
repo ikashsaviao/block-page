@@ -1,0 +1,48 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.environment_li
+{
+  margin-top: 13px;
+}
+
+.environment_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+Chat
+.p_modal 
+{
+    margin-top: 10px;
+}
+.img_modal
+{ 
+    display: inline-block;
+}
+.modal-body
+{ 
+    text-align: center;
+}
+    .p_modal
+{
+     text-align: center;
+}
+.img-responsive img_modal
+{
+ text-align: center;   
+}
